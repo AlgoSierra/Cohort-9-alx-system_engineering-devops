@@ -1,1 +1,1 @@
-Script that print the path name of the current working directory
+Display the content of your current directory in along format
